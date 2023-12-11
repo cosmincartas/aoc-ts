@@ -1,2 +1,2 @@
 #!/bin/bash
-pnpm exec ts-node src/$1/index.ts
+pnpm exec ts-node $1/src/$2/index.ts
