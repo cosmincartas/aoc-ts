@@ -24,6 +24,5 @@ export function splitInStacks(input: string) {
 
     rows.forEach((row) => {
         const items = row.split(' ');
-        console.log(items);
     });
 }
